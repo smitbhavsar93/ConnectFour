@@ -1,4 +1,5 @@
 # ConnectFour
+The first game I ever coded with the help of my partner back in high school. This program holds many memories, as a lot of sweat and tears went into this code. Done pretty well for a pair of students in 11th grade if you ask me.
 
 ## How to run code
 For this code to work, drag and drop the .java file into any java programming compiler, the code for us was written on a software called Eclipse.
